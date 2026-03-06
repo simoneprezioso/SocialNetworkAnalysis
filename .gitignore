@@ -1,0 +1,19 @@
+.DS_Store
+
+# Virtual environment
+.venv/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.pyright/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
