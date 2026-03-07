@@ -11,5 +11,5 @@ _Submission for the LUISS Social Network Analysis course._
 
 ## Contents
 
-- [`main.ipynb`](/Users/riccardo/Projects/luiss-sna-submission/main.ipynb): main notebook for the analysis.
-- [`out/`](/Users/riccardo/Projects/luiss-sna-submission/out): generated outputs, including plots and exported data.
+- [`main.ipynb`](main.ipynb): main notebook for the analysis.
+- [`out/`](out): generated outputs, including plots and exported data.
